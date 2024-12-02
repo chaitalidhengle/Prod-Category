@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\models\\contextdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\models\\contextdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\productsandcategory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\productsandcategory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|c:\\users\\chait\\source\\repos\\productsandcategory\\productsandcategory\\migrations\\20241126072241_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8C9D2A-7908-417D-822F-AA4EA6B9658A}|ProductsAndCategory\\ProductsAndCategory.csproj|solutionrelative:productsandcategory\\migrations\\20241126072241_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsAndCategory\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:11:04.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductsAndCategory\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:14:20.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductsAndCategory\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:20:22.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Models\\Category.cs",
+              "RelativeToolTip": "ProductsAndCategory\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:09:04.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContextDemo.cs",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Models\\ContextDemo.cs",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Models\\ContextDemo.cs",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Models\\ContextDemo.cs",
+              "RelativeToolTip": "ProductsAndCategory\\Models\\ContextDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:08:17.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAndCategory\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:11:20.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductsAndCategory\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:33:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductsAndCategory\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:35:15.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProductsAndCategory\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:24:47.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\appsettings.json",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\appsettings.json",
+              "RelativeToolTip": "ProductsAndCategory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T07:01:32.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Program.cs",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Program.cs",
+              "RelativeToolTip": "ProductsAndCategory\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:17:21.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\libman.json",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\libman.json",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\libman.json",
+              "RelativeToolTip": "ProductsAndCategory\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T11:33:55.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsAndCategory.csproj",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\ProductsAndCategory.csproj",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\ProductsAndCategory.csproj",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\ProductsAndCategory.csproj",
+              "RelativeToolTip": "ProductsAndCategory\\ProductsAndCategory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T07:15:18.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ProductsAndCategory\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T09:44:29.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ProductsAndCategory\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:46:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "ProductsAndCategory\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T09:58:11.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ProductsAndCategory\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:26:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241126072241_init.cs",
+              "DocumentMoniker": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Migrations\\20241126072241_init.cs",
+              "RelativeDocumentMoniker": "ProductsAndCategory\\Migrations\\20241126072241_init.cs",
+              "ToolTip": "C:\\Users\\chait\\source\\repos\\ProductsAndCategory\\ProductsAndCategory\\Migrations\\20241126072241_init.cs",
+              "RelativeToolTip": "ProductsAndCategory\\Migrations\\20241126072241_init.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:22:42.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿ @model ProductsAndCategory.Models.Category
+ @addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+ <html>
+     <head>
+         <title>Create</title>
+     </head>
+     <body>
+         <form asp-action="Create" method="post">
+          <div>
+            <label asp-for="CategoryName"> Category Name</label>
+            <input asp-for="CategoryName" />
+          </div>
+          <div>
+              
+              <input type="submit" value="Save" />
+              <a asp-action="Index">Back To List</a>
+          </div>
+         </form>
+     </body>
+ </html>

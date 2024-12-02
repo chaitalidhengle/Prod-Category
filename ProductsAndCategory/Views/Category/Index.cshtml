@@ -1,0 +1,32 @@
+﻿ @model IEnumerable<ProductsAndCategory.Models.Category>
+ @addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+ <html>
+     <head>
+         <title>Category List</title>
+     </head>
+     <body>
+         <h2>Category List</h2>
+         <a asp-action="Create">Create New</a>
+         <table border="1">
+             <thead>
+                 <tr>
+                     <th>@Html.DisplayNameFor(p =>p.CategoryId)</th>
+                     <th>@Html.DisplayNameFor(p => p.CategoryName)</th>
+                 </tr>
+             </thead>
+             <tbody>
+                 @foreach(var temp in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(p =>temp.CategoryId)</td>
+                    <td>@Html.DisplayFor(p =>temp.CategoryName)</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@temp.CategoryId">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@temp.CategoryId">Delete</a>
+                        </td>
+                </tr>
+            }
+        </tbody>
+         </table>
+     </body>
+ </html>

@@ -1,0 +1,72 @@
+﻿@model IEnumerable<ProductsAndCategory.Models.Product>
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html>
+<head>
+
+    <link rel="stylesheet" href="~/bootstrap/css/bootstrap.css"/>
+    <script src="~/bootstrap/js/bootstrap.bundle.js"></script>
+   <title>Product List</title> 
+  
+</head>
+<body>
+    <h2>Product List</h2>
+    <a asp-action="Create" class="btn btn-group-vertical btn-outline-primary">Create New</a>
+    <table class="table table-bordered">
+        <thead class="table">
+            <tr>
+                <th>@Html.DisplayNameFor(p => p.ProductId)</th>
+                <th>@Html.DisplayNameFor(p => p.ProductName)</th>
+                <th>@Html.DisplayNameFor(p => p.ProductPrice)</th>
+                <th>@Html.DisplayNameFor(p => p.CategoryId)</th>
+                <th>@Html.DisplayNameFor(p => p.Category.CategoryName)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var temp in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(p => temp.ProductId)</td>
+                    <td>@Html.DisplayFor(p => temp.ProductName)</td>
+                    <td>@Html.DisplayFor(p => temp.ProductPrice)</td>
+                    <td>@Html.DisplayFor(p => temp.CategoryId)</td>
+                    <td>@Html.DisplayFor(p => temp.Category.CategoryName)</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@temp.ProductId">Edit</a>
+                        <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@temp.ProductId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="d-flex justify-content-center mt-3">
+        <nav>
+            <ul class="pagination">
+                @if (ViewBag.CurrentPage > 1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-action="Index" asp-route-page="@(ViewBag.CurrentPage - 1)">Previous</a>
+                    </li>
+                }
+
+                @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    <li class="page-item @(ViewBag.CurrentPage == i ? "active" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@i">@i</a>
+                    </li>
+                }
+
+                @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-action="Index" asp-route-page="@(ViewBag.CurrentPage + 1)">Next</a>
+                    </li>
+                }
+            </ul>
+        </nav>
+    </div>
+
+</body>
+</html>
